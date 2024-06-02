@@ -1,0 +1,23 @@
+# Python specific
+*.pyc
+__pycache__/
+
+# Environment
+venv/
+.env
+
+# Editor specific
+.vscode/
+.idea/
+
+# Compiled files
+*.class
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Temporary files
+*.log
+*.tmp
+*.bak
